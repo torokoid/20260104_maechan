@@ -186,6 +186,11 @@ p.note { display: none; }
 <h2><span class="yellow">屋根の上にはいつもの鳥さん</span></h2>
 <a href="20260104_008.JPG" target="_blank"><img src="20260104_008.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">木の上では鳥が騒いでます</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/trssk3opEKA?si=3UFivCRhRHEiG7dZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <h2><span class="yellow">街と反対側、郊外開催の土曜市場にお邪魔します</span></h2>
 <a href="20260104_009.JPG" target="_blank"><img src="20260104_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 
