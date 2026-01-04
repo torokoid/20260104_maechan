@@ -213,6 +213,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">屋台一家のお姉さんに、撮影してるのしっかり見られました</span></h2>
 <a href="20260104_021.JPG" target="_blank"><img src="20260104_021.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">明朝の朝食用にピザを２切れ購入</span></h2>
 <a href="20260104_022.JPG" target="_blank"><img src="20260104_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260104_023.JPG" target="_blank"><img src="20260104_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260104_024.JPG" target="_blank"><img src="20260104_024.JPG" alt="サンプル画像" class="responsive-media"></a>
